@@ -5,9 +5,9 @@ Helena Moore
 
 All files for Project 1 are located in the "midterm" folder. 
 
-SQL files for creating the original source sakila database are located in the "sakila-db" folder, inside of "midterm".
+SQL files for creating the original source sakila database are located in the "sakila-db" folder.
 
-The JSON file source for this project is located in the "data" folder, inside of "midterm".
+The JSON file source for this project is located in the "data" folder.
 
 
 **Instructions:**
