@@ -1,5 +1,13 @@
-# ds2002_projects - Project 1
+# ds2002_projects - Project 2
 Helena Moore 
+
+Batch and streaming files for Project 2 are located in the "final_project" folder. Load this into DBFS in databricks.
+
+This project utilizes the sakila_dw database from Project 1. This data can be imported to the azure sql database by dumping the sakila_dw created from running all files in "midterm" folder into a destination database.
+
+Import hm_final_project_ds2002 into databricks and run after the above steps.
+
+## ds2002_projects - Project 1
 
 **Files:**
 
